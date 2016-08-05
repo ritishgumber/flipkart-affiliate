@@ -1,6 +1,6 @@
 {
   "name": "Flipkart-affiliate",
   "tagline": "node.js wrapper for Flipkart Affiliate APIs",
-  "body": "### Welcome to flipkart-affiliate\r\nThis is a node.js Wrapper for [Flipkart Affiliate API](https://affiliate.flipkart.com).\r\nThis helps the node.js developers to create a web or mobile application by just installing this package using npm and make a call to the desired function() .\r\n\r\n### Reference Website\r\n[Flipkart Affiliate API](https://affiliate.flipkart.com).\r\n\r\n\r\n### Authors and Contributors\r\nRitish Gumber (@ritishgumber) , 2016\r\n\r\n### Support or Contact\r\nRaise [Issues](https://github.com/ritishgumber/flipkart-affiliate/issues) here.",
+  "body": "### Welcome to flipkart-affiliate\r\nThis is a node.js Wrapper for [Flipkart Affiliate API](https://affiliate.flipkart.com).\r\nThis helps the node.js developers to create a web or mobile application by just installing this package using npm and make a call to the desired function() .\r\n\r\n### Reference Website\r\n[Flipkart Affiliate API](https://affiliate.flipkart.com).\r\n___\r\n\r\n### Authors and Contributors\r\nRitish Gumber (@ritishgumber) , 2016\r\n___\r\n### Installation \r\n[npm package](https://www.npmjs.com/package/flipkart-affiliate)\r\n___\r\n### Support or Contact\r\nRaise [Issues](https://github.com/ritishgumber/flipkart-affiliate/issues) here.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
