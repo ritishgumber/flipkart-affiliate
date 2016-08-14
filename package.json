@@ -1,6 +1,6 @@
 {
   "name": "flipkart-affiliate",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "npm package for Flipkart Affiliate API",
   "main": "index.js",
   "dependencies": {
@@ -18,5 +18,9 @@
     "flipkart-affiliate"
   ],
   "author": "Ritish Gumber",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ritishgumber/flipkart-affiliate"
+  }
 }

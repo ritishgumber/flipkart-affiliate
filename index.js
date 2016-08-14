@@ -16,7 +16,6 @@ var createClient = function (credentials) {
 var fq = function (credentials, method) {
   return function (query, cb) {
     var urll = genUrl(query, credentials, method);
-	console.log("dd"+urll);
     if (typeof cb === 'function') {
       request.get({
         url : urll,
@@ -69,10 +68,7 @@ var fq = function (credentials, method) {
 }
 
 function genUrl(query,credentials,method)
-{console.log(query);
-console.log(credentials);
-console.log(method);
-
+{
 if(method=='keywordSearch')
 {
   preUrl = credentials.responseType === 'xml' ? 'https://affiliate-api.flipkart.net/affiliate/search/xml?' : 'https://affiliate-api.flipkart.net/affiliate/search/json?';
